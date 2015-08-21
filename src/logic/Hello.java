@@ -14,8 +14,8 @@ public class Hello {
 	}
 
 	public static String greetingMessage(){
-		// TODO Implement this method to return string "Hello GitHub".
-		return "";
+		// TODO Implement this method to return string .
+		return "Hello GitHub";
 	}
 	
 	public static int[] bubbleSort(int[] array){
